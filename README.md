@@ -48,10 +48,10 @@ Base image :
 ![Alt text](/images/fish.bmp "Fish")
 
 Segmented image with exclusive solution :
-![Alt text](/results/fish_2_exclusive.bmp "Fish sith exclusive segmentation")
+![Alt text](/results/fish_exclusive.bmp "Fish sith exclusive segmentation")
 
 Segmented image with shared solution :
-![Alt text](/results/fish_2_shared.bmp "Fish with shared segmentation")
+![Alt text](/results/fish_shared.bmp "Fish with shared segmentation")
 
 
 The SKFCM algorithm provides a segmented image noised and respecting the fuzzy regions of the original image.
