@@ -30,11 +30,28 @@ The algorithm of the Fuzzy C-Means (FCM) is a fuzzy clustering algorithm based o
 
 ## Results
 
+
+#### Brain RMI
+
 Base image :
 ![Alt text](/images/brain_2.bmp "RMI brain")
 
 Segmented image with exclusive solution :
-![Alt text](/images/brain_2_exclusive.bmp "RMI brain exclusive segmented")
+![Alt text](/images/brain_2_exclusive.bmp "RMI brain sith exclusive segmentation")
+
+Segmented image with shared solution :
+![Alt text](/images/brain_2_shared.bmp "RMI brain with shared segmentation")
+
+#### Fish
+
+Base image :
+![Alt text](/images/fish.bmp "Fish")
+
+Segmented image with exclusive solution :
+![Alt text](/images/fish_2_exclusive.bmp "Fish sith exclusive segmentation")
+
+Segmented image with shared solution :
+![Alt text](/images/fish_2_shared.bmp "Fish with shared segmentation")
 
 
 The SKFCM algorithm provides a segmented image noised and respecting the fuzzy regions of the original image.
