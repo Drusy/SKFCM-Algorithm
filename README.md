@@ -130,7 +130,7 @@ Annual Review of Biomedical Engineering, Annual Reviews, vol. 2, pp. 315-337, 20
 ## Licence
 >The MIT License
 >
->Copyright (c) 2012, Daniel Petisme
+>Copyright (c) 2012, Maxime Arriaza & Kévin Renella
 >
 > Permission is hereby granted, free of charge, to any person obtaining a copy
 > of this software and associated documentation files (the "Software"), to deal
